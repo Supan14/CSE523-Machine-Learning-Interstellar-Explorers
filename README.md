@@ -1,2 +1,2 @@
 # Exoplanet-Classification
-Team Interstellar Explorers project for CSE523 Machine Learning Course
+Team Interstellar Explorer's project for CSE523 Machine Learning Course
