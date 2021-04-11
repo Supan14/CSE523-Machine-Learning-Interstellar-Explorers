@@ -1,8 +1,8 @@
 ## Exoplanet Classification using Machine Learning Algorithms
 
-[You can visit the live webiste here!](http://interstellar-explorers-app.herokuapp.com/)
+[You can visit the live website here!](http://interstellar-explorers-app.herokuapp.com/)
 
-[Here is the youtube link of a working site!](https://www.youtube.com/watch?v=mEqn2KPAOjg)
+[Here is the demo youtube video of the working site!](https://www.youtube.com/watch?v=mEqn2KPAOjg)
 
 ### Team Interstellar Explorer's project for CSE523 Machine Learning Course
 
