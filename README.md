@@ -31,7 +31,11 @@ First the data is extracted using NASA's API. After some EDA and data cleaning a
 
 ### Final Model
 
+The final selected model is XGBoost using 5 features from NASA API viz. Disposition Score, TCE Planet Number, Planet Radius, Stellar Temperature and Transit signal-to-noise. The decision tree diagram looks like:
+
 ![XGBoost Decision Tree](/Results/Xgboost_DecisionTree_Diagram.png)
+
+The images of the final results in our experiments is available in the ```/Results``` folder.
 
 #### Model Deployment
 
@@ -40,9 +44,5 @@ The trained model is deployed on the IBM cloud. It returns the probability of a 
 
 #### Deployment on Heroku - User-Friendly website
 
-The whole project is deployed on heroku. So it is live and anyone can test it by setting the different inputs.
-Link: http://interstellar-explorers-app.herokuapp.com/
+The whole project is deployed on heroku. So it is live and anyone can test it by setting the different inputs. The link to the live website is given at the top of this readme.
 [![Youtube Demo](https://img.youtube.com/vi/mEqn2KPAOjg/0.jpg)](https://www.youtube.com/watch?v=mEqn2KPAOjg)
-
-
-
