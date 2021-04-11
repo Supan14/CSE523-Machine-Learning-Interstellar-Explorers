@@ -45,4 +45,6 @@ The trained model is deployed on the IBM cloud. It returns the probability of a 
 #### Deployment on Heroku - User-Friendly website
 
 A user-friendly prediction website is deployed on heroku and the link is at the top of this readme.
-[![Youtube Demo](https://img.youtube.com/vi/mEqn2KPAOjg/0.jpg)](https://www.youtube.com/watch?v=mEqn2KPAOjg)
+
+## Youtube Demo:
+[![Youtube Demo](https://img.youtube.com/vi/mEqn2KPAOjg/1.jpg)](https://www.youtube.com/watch?v=mEqn2KPAOjg)
