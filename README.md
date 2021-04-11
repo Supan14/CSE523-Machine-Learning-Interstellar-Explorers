@@ -29,15 +29,20 @@ The public URL of the code can be found [here](https://colab.research.google.com
 
 First the data is extracted using NASA's API. After some EDA and data cleaning and preprocessing, the feature selection is done. Using those features three classification models are implemented. Logistic Regression, Support Vector Machine and XGBoost is used to classify whether the planet is an exoplanet or not. 
 
+### Final Model
 
+![XGBoost Decision Tree](/Results/Xgboost_DecisionTree_Diagram.png)
 
-#### Now let's test the model.  
+#### Model Deployment
 
 The trained model is deployed on the IBM cloud. It returns the probability of a planet being an exoplanet. 
 
 
-#### Deployment on Heroku
+#### Deployment on Heroku - User-Friendly website
 
 The whole project is deployed on heroku. So it is live and anyone can test it by setting the different inputs.
+Link: http://interstellar-explorers-app.herokuapp.com/
+[![Youtube Demo](https://img.youtube.com/vi/mEqn2KPAOjg/0.jpg)](https://www.youtube.com/watch?v=mEqn2KPAOjg)
+
 
 
