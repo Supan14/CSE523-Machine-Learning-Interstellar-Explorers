@@ -44,5 +44,5 @@ The trained model is deployed on the IBM cloud. It returns the probability of a 
 
 #### Deployment on Heroku - User-Friendly website
 
-The whole project is deployed on heroku. So it is live and anyone can test it by setting the different inputs. The link to the live website is given at the top of this readme.
+A user-friendly prediction website is deployed on heroku and the link is at the top of this readme.
 [![Youtube Demo](https://img.youtube.com/vi/mEqn2KPAOjg/0.jpg)](https://www.youtube.com/watch?v=mEqn2KPAOjg)
