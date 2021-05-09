@@ -6,7 +6,7 @@
 
 ### Team Interstellar Explorer's project for CSE523 Machine Learning Course
 
-#### Team members: [Supan Shah](https://github.com/Supan14), [Rudri Jani](https://github.com/rudri182), [Riya Shah](https://github.com/riyushah05), Dhaval Deshkar
+#### Team members: [Supan Shah](https://github.com/Supan14), [Rudri Jani](https://github.com/rudri182), [Riya Shah](https://github.com/riyushah05), [Dhaval Deshkar](https://github.com/DhavalDeshkar)
 
 ### Let's get started how this project is built!
 
